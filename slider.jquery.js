@@ -1,5 +1,4 @@
-;
-(function($) {
+;(function($) {
     function Slider(opt) {
         var that = this,
             defaults = {
